@@ -1,3 +1,4 @@
+[**中文主页**](README_zh.md)
 <p align="center">
   <img
     src="https://img.alicdn.com/imgextra/i1/O1CN01nTg6w21NqT5qFKH1u_!!6000000001621-55-tps-550-550.svg"
@@ -112,17 +113,19 @@ public static void main(String[] args) {
 	}
 	```
 ## <font style="color:rgb(31, 35, 40);">📖</font><font style="color:rgb(31, 35, 40);"> Documentation</font>
-+ [Create Message](./docs/quickstart-message.md)
-+ [Create ReAct Agent](./docs/quickstart-agent.md)
-+ Model
-+ Tool
-+ Memory
++ [Create Message](./docs/en/quickstart/message.md)
++ [Create ReAct Agent](./docs/en/quickstart/agent.md)
++ [Model](./docs/en/task/model.md)
++ [Tool](./docs/en/task/tool.md)
++ [MCP](./docs/en/task/mcp.md)
++ [RAG](./docs/en/task/rag.md)
++ [Memory](./docs/en/task/memory.md)
 + Prompt Formatter
 
 ## <font style="color:rgb(31, 35, 40);">🏗️</font><font style="color:rgb(31, 35, 40);"> </font>Roadmap
 In the upcoming versions, AgentScope Java version will focus on improving the following features.
 
-+ Multi-modal
++ Multi-model
 + Multi-Agent
 + Tracing
 + AgentScope Studio
